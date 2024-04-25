@@ -64,6 +64,7 @@ impl From<&str> for Person {
     }
 }
 
+
 fn main() {
     // Use the `from` function
     let p1 = Person::from("Mark,20");

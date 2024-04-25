@@ -8,6 +8,7 @@
 // hint.
 
 
+
 struct Foo {
     a: u128,
     b: Option<String>,

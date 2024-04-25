@@ -21,7 +21,6 @@
 //
 // Execute `rustlings hint arc1` or use the `hint` watch subcommand for a hint.
 
-
 #![forbid(unused_imports)] // Do not change this, (or the next) line.
 use std::sync::Arc;
 use std::thread;

@@ -10,6 +10,7 @@
 
 // Obtain the number of bytes (not characters) in the given argument.
 // TODO: Add the AsRef trait appropriately as a trait bound.
+
 fn byte_counter<T>(arg: T) -> usize 
 where
     T: AsRef<str>,

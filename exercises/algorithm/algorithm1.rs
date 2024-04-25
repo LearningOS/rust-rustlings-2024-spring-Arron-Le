@@ -3,7 +3,6 @@
 	This problem requires you to merge two ordered singly linked lists into one ordered singly linked list
 */
 
-
 use std::fmt::{self, Display, Formatter};
 use std::ptr::NonNull;
 use std::vec::*;
